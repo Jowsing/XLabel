@@ -1,6 +1,6 @@
 # XLabel
 
-[![CI Status](https://img.shields.io/travis/zhouxin/XLabel.svg?style=flat)](https://travis-ci.org/zhouxin/XLabel)
+[![CI Status](https://img.shields.io/travis/jowsing/XLabel.svg?style=flat)](https://travis-ci.org/jowsing/XLabel)
 [![Version](https://img.shields.io/cocoapods/v/XLabel.svg?style=flat)](https://cocoapods.org/pods/XLabel)
 [![License](https://img.shields.io/cocoapods/l/XLabel.svg?style=flat)](https://cocoapods.org/pods/XLabel)
 [![Platform](https://img.shields.io/cocoapods/p/XLabel.svg?style=flat)](https://cocoapods.org/pods/XLabel)
@@ -22,7 +22,7 @@ pod 'XLabel'
 
 ## Author
 
-zhouxin, xinzhou@wisedu.com
+jowsing, jowsing169@gmail.com
 
 ## License
 

@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  XLabel
 //
-//  Created by zhouxin on 12/14/2024.
-//  Copyright (c) 2024 zhouxin. All rights reserved.
+//  Created by jowsing on 12/14/2024.
+//  Copyright (c) 2024 jowsing. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }

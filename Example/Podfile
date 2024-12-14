@@ -4,10 +4,5 @@ platform :ios, '10.0'
 
 target 'XLabel_Example' do
   pod 'XLabel', :path => '../'
-
-  target 'XLabel_Tests' do
-    inherit! :search_paths
-
-    
-  end
+  pod 'SnapKit'
 end
